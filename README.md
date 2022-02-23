@@ -1,1 +1,1 @@
-"# snowSushi26.github.io" 
+# snowSushi26.github.io
